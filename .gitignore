@@ -1,0 +1,18 @@
+# Godot 4+ specific ignores
+.godot/
+Sunny Land houses
+Sunnyland Trees/code
+
+
+Sunny-land-files/Sunny-land-assets-files/code
+Sunny-land-files/Sunny-land-assets-files/GIF
+Sunny-land-files/Sunny-land-assets-files/PSD
+Sunny-land-files/Sunny-land-assets-files/Sound
+Sunny-land-files/Sunny-land-assets-files/PNG/environment/props
+Sunny-land-files/Sunny-land-assets-files/PNG/sprites/eagle
+Sunny-land-files/Sunny-land-assets-files/PNG/sprites/opossum
+Sunnyland Trees
+Sunny-land-files/Sunny-land-assets-files/PNG/sprites/item-feedback
+Sunny-land-files/Sunny-land-assets-files/PNG/sprites/gem
+sunny-land-phaser-project
+savegame.bin
